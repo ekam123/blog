@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: Ekam's blog
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: ""
 author:
   name: "Ekam Singh"
   email: "ekamd@sfu.ca"
-  url: "http://www.jacoporabolini.com"
+  url: ""
 
 # Build settings
 baseurl: /blog/  # Change this to your relative path (ex: /blog/), or leave just a /
